@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Parental Monitoring Dashboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f8f9fa;
+      color: #333;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 25px;
+      padding: 15px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h1 { color: #2c3e50; margin-bottom: 8px; }
+    .summary-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 25px;
+    }
+    .card {
+      background: white;
+      padding: 18px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+    }
+    .card h3 { margin-bottom: 10px; color: #7f8c8d; font-size: 1rem; }
+    .card .value {
+      font-size: 1.8rem;
+      font-weight: bold;
+    }
+    .screen { color: #e67e22; }
+    .focused { color: #27ae60; }
+    .total { color: #3498db; }
+
+    table {
+      width: 100%;
+      background: white;
+      border-collapse: collapse;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+    }
+    th {
+      background: #3498db;
+      color: white;
+      padding: 14px;
+      text-align: left;
+    }
+    td {
+      padding: 12px 14px;
+      border-bottom: 1px solid #eee;
+    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover { background: #f9f9f9; }
+    .app-name { font-weight: bold; }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      color: #7f8c8d;
+      font-size: 0.9rem;
+    }
+    .loading { text-align: center; padding: 30px; color: #7f8c8d; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>👨‍👩‍👧 Parental Monitoring Dashboard</h1>
+    <p>Real-time activity & screen time tracking</p>
+  </header>
+
+  <div class="summary-cards">
+    <div class="card">
+      <h3>SCREEN TIME</h3>
+      <div class="value screen" id="screenTime">--</div>
+    </div>
+    <div class="card">
+      <h3>FOCUSED TIME</h3>
+      <div class="value focused" id="focusedTime">--</div>
+    </div>
+    <div class="card">
+      <h3>TOTAL ACTIVE</h3>
+      <div class="value total" id="totalTime">--</div>
+    </div>
+    <div class="card">
+      <h3>DATE</h3>
+      <div class="value" id="reportDate">--</div>
+    </div>
+  </div>
+
+  <h2>App Usage Breakdown</h2>
+  <div id="tableContainer">
+    <div class="loading">Loading activity data...</div>
+  </div>
+
+  <footer>
+    <p>Powered by Windows Agent + Prisma Backend</p>
+  </footer>
+
+  <script>
+    // 🔧 Configure this if backend is on another machine
+    const BACKEND_URL = 'http://localhost:3001';
+
+    async function fetchData() {
+      try {
+        // Fetch total screen time
+        const totalRes = await fetch(`${BACKEND_URL}/api/screen-time/total`);
+        const totalData = await totalRes.json();
+
+        document.getElementById('screenTime').textContent = totalData.totalScreenTimeFormatted;
+        document.getElementById('focusedTime').textContent = totalData.totalFocusedTimeFormatted;
+        document.getElementById('totalTime').textContent = formatSeconds(totalData.totalTimeSeconds);
+        document.getElementById('reportDate').textContent = totalData.date;
+
+        // Fetch per-app breakdown
+        const summaryRes = await fetch(`${BACKEND_URL}/api/summary/daily-comparison`);
+        const summaryData = await summaryRes.json();
+
+        const tableHtml = `
+          <table>
+            <thead>
+              <tr>
+                <th>App</th>
+                <th>Focused Time</th>
+                <th>Screen Time</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${summaryData.apps.map(app => `
+                <tr>
+                  <td class="app-name">${app.app}</td>
+                  <td class="focused">${app.focusedTimeFormatted}</td>
+                  <td class="screen">${app.screenTimeFormatted}</td>
+                  <td>${formatSeconds(app.totalTimeSeconds)}</td>
+                </tr>
+              `).join('')}
+            </tbody>
+          </table>
+        `;
+
+        document.getElementById('tableContainer').innerHTML = tableHtml;
+      } catch (err) {
+        console.error('Failed to load dashboard:', err);
+        document.getElementById('tableContainer').innerHTML = 
+          '<div class="loading" style="color:red">❌ Could not connect to backend. Is it running?</div>';
+      }
+    }
+
+    function formatSeconds(sec) {
+      if (sec < 60) return `${sec}s`;
+      const m = Math.floor(sec / 60);
+      const h = Math.floor(m / 60);
+      if (h > 0) return `${h}h ${m % 60}m`;
+      return `${m}m`;
+    }
+
+    // Load on start + auto-refresh every 30 seconds
+    fetchData();
+    setInterval(fetchData, 30_000);
+  </script>
+</body>
+</html>

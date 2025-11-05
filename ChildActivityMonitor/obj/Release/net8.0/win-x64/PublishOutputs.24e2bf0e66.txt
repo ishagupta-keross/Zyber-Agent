@@ -1,0 +1,4 @@
+D:\-\POC Projects\Parent MonitoringAgent\deploy\appsettings.Development.json
+D:\-\POC Projects\Parent MonitoringAgent\deploy\appsettings.json
+D:\-\POC Projects\Parent MonitoringAgent\deploy\ChildActivityMonitor.pdb
+D:\-\POC Projects\Parent MonitoringAgent\deploy\ChildActivityMonitor.exe

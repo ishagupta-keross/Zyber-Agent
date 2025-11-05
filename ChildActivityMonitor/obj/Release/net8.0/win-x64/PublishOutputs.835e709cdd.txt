@@ -1,0 +1,4 @@
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\publish\appsettings.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\publish\ChildActivityMonitor.pdb
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\publish\ChildActivityMonitor.exe

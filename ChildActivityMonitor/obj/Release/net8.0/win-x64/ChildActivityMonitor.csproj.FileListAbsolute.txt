@@ -1,0 +1,464 @@
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\appsettings.Development.json
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\appsettings.json
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.exe
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.deps.json
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.runtimeconfig.json
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.pdb
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\createdump.exe
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2125.47513.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\msquic.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.csproj.AssemblyReference.cache
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.AssemblyInfoInputs.cache
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.AssemblyInfo.cs
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.csproj.CoreCompileInputs.cache
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildAct.8D9541C4.Up2Date
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\refint\ChildActivityMonitor.dll
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.pdb
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.genruntimeconfig.cache
+C:\Users\ishakumarigupta\Desktop\Work Folder\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ref\ChildActivityMonitor.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\appsettings.Development.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\appsettings.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.exe
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.deps.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.runtimeconfig.json
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\ChildActivityMonitor.pdb
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceProcess.ServiceController.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Json.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.AppContext.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Buffers.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Collections.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Configuration.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Console.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Core.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.Common.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Data.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Drawing.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Globalization.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Linq.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Memory.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Http.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Security.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Net.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Numerics.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Reflection.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Runtime.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Security.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Threading.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Transactions.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Web.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Windows.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.Xml.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\WindowsBase.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscorlib.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\netstandard.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clretwrc.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clrgc.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\clrjit.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\coreclr.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\createdump.exe
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\hostfxr.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\hostpolicy.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordaccore.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2125.47513.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscordbi.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\mscorrc.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\bin\Release\net8.0\win-x64\msquic.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.csproj.AssemblyReference.cache
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.AssemblyInfoInputs.cache
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.AssemblyInfo.cs
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.csproj.CoreCompileInputs.cache
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildAct.8D9541C4.Up2Date
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\refint\ChildActivityMonitor.dll
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.pdb
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ChildActivityMonitor.genruntimeconfig.cache
+D:\-\POC Projects\Parent MonitoringAgent\ChildActivityMonitor\obj\Release\net8.0\win-x64\ref\ChildActivityMonitor.dll

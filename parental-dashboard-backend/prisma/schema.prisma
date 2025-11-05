@@ -1,0 +1,22 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite" // or "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model ActivityLog {
+  id            Int       @id @default(autoincrement())
+  timestamp     DateTime  @default(now())
+  localTimestamp DateTime?
+  machineName   String?
+  userName      String?
+  appName       String
+  windowTitle   String
+  durationSeconds Int
+  executablePath String?
+  screenTime Boolean @default(false)
+  @@map("activity_logs")
+}
