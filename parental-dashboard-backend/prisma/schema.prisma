@@ -20,3 +20,12 @@ model ActivityLog {
   screenTime Boolean @default(false)
   @@map("activity_logs")
 }
+model ControlCommand {
+  id          Int       @id @default(autoincrement())
+  machineName String
+  appName     String
+  action      String
+  schedule    String?
+  isActive    Boolean   @default(true)
+  createdAt   DateTime  @default(now())
+}
